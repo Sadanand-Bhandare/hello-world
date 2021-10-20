@@ -1,0 +1,15 @@
+C:\WorkflowApp\DemoMSI\WPFApp\bin\Debug\WPFApp.exe.config
+C:\WorkflowApp\DemoMSI\WPFApp\bin\Debug\WPFApp.exe
+C:\WorkflowApp\DemoMSI\WPFApp\bin\Debug\WPFApp.pdb
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.csproj.AssemblyReference.cache
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\MainWindow.g.cs
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\App.g.cs
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\MainWindow.baml
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.g.resources
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.exe
+C:\WorkflowApp\DemoMSI\WPFApp\obj\Debug\WPFApp.pdb
